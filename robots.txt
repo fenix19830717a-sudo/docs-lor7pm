@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staging.kyasina.com/sitemap.xml
